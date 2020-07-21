@@ -12,4 +12,4 @@ while True:
 	try:
 		print('La población de {} es: {} millones'.format(country,countries[country]))
 	except KeyError:
-		print('El país no existe imbécil')
+		print('El país no existe. Imbécil')
